@@ -6,6 +6,12 @@
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c71585&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  <a href="https://github.com/alanisribeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanisribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisribeiro&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
   
 
