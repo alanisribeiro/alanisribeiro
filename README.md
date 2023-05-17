@@ -4,9 +4,6 @@
 
 
 ##
-<div align=center>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=2383FF" />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanisribeiro=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
