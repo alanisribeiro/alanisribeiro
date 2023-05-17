@@ -4,14 +4,16 @@
 
 
 ##
-<br>
- <br>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alanisribeiro&show_icons=true&count_private=true&hide_border=true&title_color=3088DE&icon_color=3088DE&text_color=c9d1d9&bg_color=000" alt="Alanis Ribeiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisribeiro&layout=compact&hide_border=true&title_color=3088DE&text_color=c9d1d9&bg_color=000" />
-</div>
-<br>
-<br>
+<div align=center>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=2383FF" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanisribeiro=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisribeiro=github_dark&layout=compact&hide_border=true" />
+</a> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="figma" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
