@@ -1,5 +1,7 @@
 ## Olá! eu sou a Alanis Ribeiro
 
+- 🌱 No momento estou cursando Desenvolvimento web Java no institudo PROA
+
 
 ##
 <br>
