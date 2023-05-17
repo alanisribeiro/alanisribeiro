@@ -4,13 +4,13 @@
 
 
 ##
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanisribeiro=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c71585&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alanis+Ribeiro;Tenho+18+anos;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
+<div>
+   <a href="https://github.com/alanisribeiro"></a> 
+   <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=alanisribeiro&show_icons=true&title_color=c71585&text_color=c71585&icon_color=c71585" >
+   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisribeiro&&layout=compact&title_color=c71585&text_color=000000">
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisribeiro=github_dark&layout=compact&hide_border=true" />
-</a> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="figma" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
