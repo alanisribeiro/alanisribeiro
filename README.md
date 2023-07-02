@@ -28,9 +28,6 @@
   
 </div>
 
-<div>
-  <img height="250em" width="530em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=alanisribeiro&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=vision-friendly-dark">
-</div>
 
 
   
