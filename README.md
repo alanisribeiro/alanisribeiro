@@ -29,7 +29,7 @@
 </div>
 
 <div>
-  [![wakatime](https://wakatime.com/badge/user/d8c1a24d-e6bb-4b4b-ac10-e775d0426b97.svg)](https://wakatime.com/@d8c1a24d-e6bb-4b4b-ac10-e775d0426b97)
+  <img height="250em" width="530em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=alanisribeiro&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=vision-friendly-dark">
 </div>
   
   ##
