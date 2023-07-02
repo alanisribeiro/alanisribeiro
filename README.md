@@ -27,6 +27,10 @@
   <img align="center" alt="icon-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
 </div>
+
+<div>
+  [![wakatime](https://wakatime.com/badge/user/d8c1a24d-e6bb-4b4b-ac10-e775d0426b97.svg)](https://wakatime.com/@d8c1a24d-e6bb-4b4b-ac10-e775d0426b97)
+</div>
   
   ##
  
